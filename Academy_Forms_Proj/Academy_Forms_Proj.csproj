@@ -168,7 +168,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Repositories\AcademyProject\ConsoleApplication1\DataLayer\DataLayer.csproj">
+    <ProjectReference Include="..\AcademyProject\ConsoleApplication1\DataLayer\DataLayer.csproj">
       <Project>{9ec7e979-e0bb-42d2-8b12-391cf2d3dcc5}</Project>
       <Name>DataLayer</Name>
     </ProjectReference>
